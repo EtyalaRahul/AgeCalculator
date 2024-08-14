@@ -10,6 +10,7 @@
 .container {
     justify-content: center;
     align-items: center;
+    z-index: -1;
 }
 
 .box {
@@ -64,4 +65,5 @@ h1 {
     margin: auto;
     margin-top: 23px;
     border-radius: 23px;
+    z-index: 1;
 }
